@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CAFÉ STARBUZZ</title>
+</head>
+<body>
+    <H1>Café Starbuzz</H1>
+    
+    <p> <B> Mistura de casa, R$ 1,49 </B></p>
+    <p> Uma mistura suave e delicada de cafés do México, Bolívia e Guatemala</p>
+<br
+    <P> <B>Café arábico com leite, R$2,35</B></P>
+    <p>Expresso, leite fervido e xarope de chocolate</p>
+<br>
+    <p> <b>Cappucino, R$ 1,89</b></p>
+    <P>Uma mistura de expresso, leite fervido e espuma</P>
+<br>
+    <p> <B>Chá Chai, R$ 1,85</B></p>
+    <P>Uma bebida condimentada com chá preto, especiarias, leite e mel</P>
+</body>
+</html>
